@@ -1,1 +1,2 @@
 # Image-processing-projects
+The goal of this project is to learn Python and OpenCV-based image processing techniques, such as image manipulation, picture sharpening, and image stitching. We implemented image manipulation operations on raw images, after that focused enhancing image sharpness and in final module stitched together two input photos to produce a panoramic image. One of our motivations was to gain practical experience of working with image data, from straightforward manipulation to sophisticated image processing methods.
